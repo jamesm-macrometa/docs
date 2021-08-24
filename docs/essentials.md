@@ -82,11 +82,11 @@ Similarly fabrics may also contain view entities. A `View` in its simplest form 
 
 ### Key/Value model
 
-In GDN, each document stored in a collection contains a primary key `_key`. The rest of the document is considered as value. In the absence of any additional secondary indexes on the collection, the collection behaves like a simple key/value store.
+In GDN, each document stored in a collection contains a primary key `_key`. The rest of the document is considered a value. In the absence of any additional secondary indexes on the collection, the collection behaves like a simple key/value store.
 
 The only operations that are possible in KV context are key lookups (single & batch gets) and key/value pair insertions and updates. If no sharding attribute is specified then `_key` is used for sharding the data.
 
-You can specify time_to_live (TTL) as part of KV collection creation. 
+KV collections are always global. You can specify time_to_live (TTL) as part of KV collection creation. 
 
 ### Document model
 
