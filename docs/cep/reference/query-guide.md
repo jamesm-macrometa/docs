@@ -954,24 +954,24 @@ Following are some inbuilt Stream functions, for more functions refer [Functions
 
 |Inbuilt function | Description|
 | ------------- |-------------|
-| <a target="_blank" href="../api/latest/#eventtimestamp-function">eventTimestamp</a> | Returns event's timestamp. |
-| <a target="_blank" href="../api/latest/#currenttimemillis-function">currentTimeMillis</a> | Returns current time of StreamApp runtime. |
-| <a target="_blank" href="../api/latest/#default-function">default</a> | Returns a default value if the parameter is null. |
-| <a target="_blank" href="../api/latest/#ifthenelse-function">ifThenElse</a> | Returns parameters based on a conditional parameter. |
-| <a target="_blank" href="../api/latest/#uuid-function">UUID</a> | Generates a UUID. |
-| <a target="_blank" href="../api/latest/#cast-function">cast</a> | Casts parameter type. |
-| <a target="_blank" href="../api/latest/#convert-function">convert</a> | Converts parameter type. |
-| <a target="_blank" href="../api/latest/#coalesce-function">coalesce</a> | Returns first not null input parameter. |
-| <a target="_blank" href="../api/latest/#maximum-function">maximum</a> | Returns the maximum value of all parameters. |
-| <a target="_blank" href="../api/latest/#minimum-function">minimum</a> | Returns the minimum value of all parameters. |
-| <a target="_blank" href="../api/latest/#instanceofboolean-function">instanceOfBoolean</a> | Checks if the parameter is an instance of Boolean. |
-| <a target="_blank" href="../api/latest/#instanceofdouble-function">instanceOfDouble</a> | Checks if the parameter is an instance of Double. |
-| <a target="_blank" href="../api/latest/#instanceoffloat-function">instanceOfFloat</a> | Checks if the parameter is an instance of Float. |
-| <a target="_blank" href="../api/latest/#instanceofinteger-function">instanceOfInteger</a> | Checks if the parameter is an instance of Integer. |
-| <a target="_blank" href="../api/latest/#instanceoflong-function">instanceOfLong</a> | Checks if the parameter is an instance of Long. |
-| <a target="_blank" href="../api/latest/#instanceofstring-function">instanceOfString</a> | Checks if the parameter is an instance of String. |
-| <a target="_blank" href="../api/latest/#createset-function">createSet</a> | Creates  HashSet with given input parameters. |
-| <a target="_blank" href="../api/latest/#minimum-function">sizeOfSet</a> | Returns number of items in the HashSet, that's passed as a parameter. |
+| <a target="_blank" href="../functions/#eventtimestamp-function">eventTimestamp</a> | Returns event's timestamp. |
+| <a target="_blank" href="../functions/#currenttimemillis-function">currentTimeMillis</a> | Returns current time of StreamApp runtime. |
+| <a target="_blank" href="../functions/#default-function">default</a> | Returns a default value if the parameter is null. |
+| <a target="_blank" href="../functions/#ifthenelse-function">ifThenElse</a> | Returns parameters based on a conditional parameter. |
+| <a target="_blank" href="../functions/#uuid-function">UUID</a> | Generates a UUID. |
+| <a target="_blank" href="../functions/#cast-function">cast</a> | Casts parameter type. |
+| <a target="_blank" href="../functions/#convert-function">convert</a> | Converts parameter type. |
+| <a target="_blank" href="../functions/#coalesce-function">coalesce</a> | Returns first not null input parameter. |
+| <a target="_blank" href="../functions/#maximum-function">maximum</a> | Returns the maximum value of all parameters. |
+| <a target="_blank" href="../functions/#minimum-function">minimum</a> | Returns the minimum value of all parameters. |
+| <a target="_blank" href="../functions/#instanceofboolean-function">instanceOfBoolean</a> | Checks if the parameter is an instance of Boolean. |
+| <a target="_blank" href="../functions/#instanceofdouble-function">instanceOfDouble</a> | Checks if the parameter is an instance of Double. |
+| <a target="_blank" href="../functions/#instanceoffloat-function">instanceOfFloat</a> | Checks if the parameter is an instance of Float. |
+| <a target="_blank" href="../functions/#instanceofinteger-function">instanceOfInteger</a> | Checks if the parameter is an instance of Integer. |
+| <a target="_blank" href="../functions/#instanceoflong-function">instanceOfLong</a> | Checks if the parameter is an instance of Long. |
+| <a target="_blank" href="../functions/#instanceofstring-function">instanceOfString</a> | Checks if the parameter is an instance of String. |
+| <a target="_blank" href="../functions/#createset-function">createSet</a> | Creates  HashSet with given input parameters. |
+| <a target="_blank" href="../functions/#minimum-function">sizeOfSet</a> | Returns number of items in the HashSet, that's passed as a parameter. |
 
 **Example**
 
