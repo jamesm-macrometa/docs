@@ -7,8 +7,8 @@ The following table shows rate limits for free developer accounts and metered ac
 
 | Name 							| Free Tier Quota 	| Metered Tier Quota |
 |------							|-----------------	|-----------------	|
-| Requests Per Minute Per Region | 500				| 2000				|
 | Requests per Day				| 20000				| No limit			|
+| Requests Per Minute  			| 500				| 2000				|
 | Requests per Second			| 500				| No limit			| 
 | Storage per Day				| 200 MB			| No limit			|
 | Document Size					| 500 KB			| 500 KB			|
@@ -21,3 +21,4 @@ The following table shows rate limits for free developer accounts and metered ac
 | Views per Fabric 				| 2  				| 100				|
 | Indexes per Fabric 			| 10 				| 100				|
 | Geo Fabrics per Tenant 		| 2					| 50				|
+
